@@ -1,0 +1,12 @@
+{
+  "name": "system-time",
+  "version": "1.0.0",
+  "description": "Simple Node.js script that gets system time and exits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["time", "system"],
+  "author": "",
+  "license": "ISC"
+}
